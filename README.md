@@ -1,6 +1,6 @@
 # Last fm project
 
-A flutter project to demonstrate an author's approach to the Clean Architecture. The main advantage is a concise and easily understandable (at the same time maintainable and scalable) project structure. For more info - check my article here: [Part 1](https://google.com) and [Part 2](https://google.com)
+A flutter project to demonstrate an author's approach to the Clean Architecture. The main advantage is a concise and easily understandable (at the same time maintainable and scalable) project structure. For more info - check my article here: [Part 1](https://medium.com/@eugelin7/thoughts-about-clean-architecture-in-flutter-apps-97cc0092078b) and [Part 2](https://google.com)
 
 ## Screenshots
 
